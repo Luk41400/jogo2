@@ -1,0 +1,9 @@
+{
+  "name": "corrida-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jogo de corrida 3D em navegador com Three.js.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
